@@ -1,5 +1,6 @@
 # Ceng201_Project_HotelManagement_ReservationSystem
 OOP Course Project
+
 • It is basically an application that makes hotel reservations and arranges hotel management.
 
 • It has four main features which are adding guests and assigning them a room, checking out of the hotel,
