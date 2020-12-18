@@ -1,4 +1,4 @@
-# Ceng201_Project_HotelManagement_ReservationSystem
+# Ceng201 Project Hotel Management Reservation System
 OOP Course Project
 
 • It is basically an application that makes hotel reservations and arranges hotel management.
